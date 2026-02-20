@@ -4,7 +4,7 @@ description: P4 Books Cloud Accounting
 
 # How P4 Books Works
 
-P4 Books is an intelligent, cloud-based accounting software that handles all your accounting needs. P4 Books works perfectly for any type of business, however it is particularly suited for distribution, with built-in support for lot number tracking, serial number tracking, bills of materials, expiry date tracking, and Packsizes for boxed products. To fully understand how P4 Books works, go through the modules below in the order given.
+P4 Books is an intelligent, cloud-based accounting software that handles all your accounting needs. P4 Books works perfectly for any type of business, however, it is particularly suited for distribution, with built-in support for lot number tracking, serial number tracking, bills of materials, expiry date tracking, and Packsizes for boxed products. To fully understand how P4 Books works, go through the modules below in the order given.
 
 **Accessing P4 Books**
 

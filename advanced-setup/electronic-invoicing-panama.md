@@ -8,7 +8,7 @@ In P4 Books we made electronic invoicing easy, simply enter your information pro
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>P4 Books Electronic Invoicing</p></figcaption></figure>
 
-If you do not have a WebPOS account call Barrdega Panama @ +507-209-6996 to get your account setup for invoicing!
+If you do not have a WebPOS account call Barrdega Panama at +507-209-6996 to get your account setup for invoicing!
 
 {% file src="../.gitbook/assets/CBSP - Códigos de Gobierno - Extracto de la ficha.pdf" %}
 Panama Government Product Codes
