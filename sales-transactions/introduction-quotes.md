@@ -22,3 +22,7 @@ On this screen you can add your products and services and then email the quote t
 {% hint style="info" %}
 Remember that if you purchase products in boxes, configure Packsizes so you can easily sell boxed products.
 {% endhint %}
+
+---
+
+**Next:** [Sales Orders](introduction-sales-orders.md) · **Related:** [Customers](../customers.md)

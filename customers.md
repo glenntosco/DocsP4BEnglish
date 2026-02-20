@@ -28,3 +28,7 @@ To create a new customer:
 * Once all details have been entered, they will be saved automatically.
 
 <figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption><p>P4 Books Customer Setup</p></figcaption></figure>
+
+---
+
+**Related:** [Quotes](sales-transactions/introduction-quotes.md) · [Sales Orders](sales-transactions/introduction-sales-orders.md)

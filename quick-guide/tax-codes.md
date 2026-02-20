@@ -13,3 +13,7 @@ Tax codes are managed at two levels — on the product and on the customer — d
 
 If you are in a country such as Panama that has sales tax withholding, you will configure this on the Customer Screen.
 {% endhint %}
+
+---
+
+**Next:** [Payment Terms](payment-terms.md)

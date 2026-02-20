@@ -27,3 +27,7 @@ To create a new Vendor:
 * Once all details have been entered, they will be saved automatically.
 
 <figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+**Related:** [Purchase Orders](purchasing-transactions/introduction-purchase-orders.md)

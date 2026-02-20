@@ -11,3 +11,7 @@ A purchase order is a document you send to your vendors detailing all the items 
 {% hint style="info" %}
 When entering a purchase order for pack size items, you will have the option to order the pack size sold by your vendor.
 {% endhint %}
+
+---
+
+**Related:** [Vendors](../vendors.md) · [Products](../products.md)

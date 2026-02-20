@@ -13,3 +13,7 @@ The type of institution is determined by the type of general ledger account you 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Financial Institutions</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+**Next:** [Warehouse Setup](../warehouse-setup.md)

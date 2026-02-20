@@ -6,6 +6,7 @@
 
 ## Quick Guide
 
+* [Getting Started](quick-guide/getting-started.md)
 * [Accounting Periods](quick-guide/accounting-periods.md)
 * [Tax Authority](quick-guide/tax-authority.md)
 * [Tax Codes](quick-guide/tax-codes.md)

@@ -17,3 +17,7 @@ Once on the Tax Authority setup screen, click the New button.
 Here you will enter the name of the Tax Authority and select the G/L Account for this Tax Authority.
 
 The typical setup is to enter the sales tax payable general ledger account.
+
+---
+
+**Next:** [Tax Codes](tax-codes.md)

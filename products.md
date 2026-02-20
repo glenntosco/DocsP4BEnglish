@@ -21,3 +21,7 @@ From here you can:
 As you will see below, the main difference between P4 Books and other ERP systems is our ability to track serial numbers, lot numbers, expiry dates, bills of materials, pack sizes (units, inner packs, boxes, pallets), barcodes, UPCs, and items with decimal control. In addition, P4 Books can handle all your shipping needs and compliance requirements.
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+**Related:** [Purchase Orders](purchasing-transactions/introduction-purchase-orders.md) · [Quotes](sales-transactions/introduction-quotes.md) · [Sales Orders](sales-transactions/introduction-sales-orders.md)
