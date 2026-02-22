@@ -6,7 +6,7 @@ description: P4 Books Cloud Accounting
 
 Here you will enter your sales tax codes — there may be one or several. Setting a default tax code will apply that tax code to all products and services.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>P4 Books ITBMS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt="P4 Books Tax Codes setup"><figcaption><p>P4 Books Tax Codes</p></figcaption></figure>
 
 {% hint style="info" %}
 Tax codes are managed at two levels — on the product and on the customer — depending on the type of product and customer in terms of how tax codes are applied.

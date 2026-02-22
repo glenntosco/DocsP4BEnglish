@@ -9,10 +9,14 @@ A sales order is a document sent to customers to confirm the items and prices of
 The sales order workflow in P4 Books is as follows:
 
 * Create a sales order detailing the items you will sell to your customers and their prices. Click the Lock button to save the sales order and prevent accidental changes.
-* Once the sales order is locked, you can create the delivery, create the invoice, create a purchase order...
+* Once the sales order is locked, you can create the delivery, create the invoice, or create a purchase order directly from the sales order.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>P4 Books Sales Order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt="P4 Books Sales Order screen"><figcaption><p>P4 Books Sales Order</p></figcaption></figure>
 
 {% hint style="info" %}
 If your P4 Books is integrated with P4 Warehouse, you will not have the option to create a delivery document. The delivery document will be sent from your warehouse once the order has been picked and packed for shipping.
 {% endhint %}
+
+---
+
+**Related:** [Quotes](introduction-quotes.md) · [Customers](../customers.md) · [Purchase Orders](../purchasing-transactions/introduction-purchase-orders.md)

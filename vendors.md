@@ -26,7 +26,7 @@ To create a new Vendor:
 * You can add other details such as billing address and shipping address.
 * Once all details have been entered, they will be saved automatically.
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt="P4 Books Vendor setup form"><figcaption><p>P4 Books Vendor Setup</p></figcaption></figure>
 
 ---
 

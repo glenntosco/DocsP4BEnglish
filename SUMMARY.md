@@ -18,12 +18,13 @@
 
 ***
 
+## Master Data
+
 * [Carriers](carriers.md)
 * [Shipping Terms](shipping-terms.md)
 * [Products](products.md)
 * [Vendors](vendors.md)
 * [Customers](customers.md)
-* [Payment Terms](payment-terms.md)
 * [Additional Charges](additional-charges.md)
 
 ## Purchasing Transactions

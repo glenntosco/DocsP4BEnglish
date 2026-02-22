@@ -10,6 +10,7 @@ Already have an account? Log in to P4 Books, or create your account by subscribi
 
 ## Browser Compatibility
 
+
 P4 Books is a web-based application. It is well designed and developed for the latest browsers, with a focus on delivering the best user experience.
 
 P4 Books supports the latest versions of the following browsers:

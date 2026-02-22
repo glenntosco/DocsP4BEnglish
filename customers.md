@@ -27,7 +27,7 @@ To create a new customer:
 * You can add other details such as billing address and shipping address.
 * Once all details have been entered, they will be saved automatically.
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption><p>P4 Books Customer Setup</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt="P4 Books Customer setup form"><figcaption><p>P4 Books Customer Setup</p></figcaption></figure>
 
 ---
 

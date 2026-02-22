@@ -11,11 +11,11 @@ To create a Quote in P4 Books:
 * Go to **Sales** and select **Quotes**.
 * Click + New in the top right corner of the page.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>P4 Books - Quotes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="P4 Books Quotes list screen"><figcaption><p>P4 Books Quotes</p></figcaption></figure>
 
 After clicking New you will see the screen above — select a customer and a warehouse and click Submit.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>P4 Books Quote</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="P4 Books Quote detail screen"><figcaption><p>P4 Books Quote Detail</p></figcaption></figure>
 
 On this screen you can add your products and services and then email the quote to your customer.
 
