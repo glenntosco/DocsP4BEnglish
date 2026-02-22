@@ -10,7 +10,7 @@ Before creating any transactions in P4 Books, complete the following setup steps
 
 ## Setup Checklist
 
-### Step 1 — [Accounting Periods](accounting-periods.md)
+### Step 1 — [[accounting-periods]]
 
 Define the fiscal periods for your organization (e.g. 2024). Transactions cannot be posted without an open accounting period.
 
