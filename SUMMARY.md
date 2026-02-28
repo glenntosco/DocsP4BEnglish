@@ -16,8 +16,6 @@
 * [Warehouse Setup](quick-guide/warehouse-setup.md)
 * [Opening Balances](quick-guide/opening-balances.md)
 
-***
-
 ## Master Data
 
 * [Carriers](carriers.md)
@@ -45,3 +43,29 @@
 ## P4 Books API
 
 * [Getting Connected to the P4 Books API](p4-books-api/getting-connected-to-the-p4-books-api.md)
+
+***
+
+* [API Reference](api-reference.md)
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: p4-software-api
+  ```
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: p4-software-api
+  ```
